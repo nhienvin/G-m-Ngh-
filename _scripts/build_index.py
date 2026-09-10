@@ -16,7 +16,7 @@ import json
 import csv
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FOLDERS = ["nguyen-lieu", "xuong-gom", "men", "nung-lo"]
+FOLDERS = ["nguyen-lieu", "xuong-gom", "men", "lo-nung", "nung-lo"]
 
 
 def parse_frontmatter(text):

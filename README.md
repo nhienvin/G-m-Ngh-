@@ -29,23 +29,28 @@ tags: [do-hut-nuoc-thap, am-tra]
 gom-data/
 ├── README.md
 ├── nguyen-lieu/
-│   ├── NL-DAT-01.md
+│   ├── NL-DAT-01.md      ← đất, tro, khoáng — theo từng vùng/nguồn gốc cụ thể
 │   ├── NL-TRO-01.md
 │   └── ...
 ├── xuong-gom/
-│   ├── X-01.md
+│   ├── X-01.md           ← bài phối đất làm gốm (phối nhiều NL- theo tỷ lệ)
 │   └── ...
 ├── men/
-│   ├── M-01.md
+│   ├── M-01.md           ← bài phối men (phối nhiều NL- theo tỷ lệ)
+│   └── ...
+├── lo-nung/
+│   ├── LOK-01.md         ← từng CÁI LÒ cụ thể (củi/gas/điện/kết hợp) — tách khỏi mẻ nung
 │   └── ...
 ├── nung-lo/
-│   ├── LO-014.md
+│   ├── LO-014.md         ← từng MẺ NUNG cụ thể, tham chiếu lo_id + các bài xương/men
 │   └── ...
 ├── anh/
 │   └── LO-014-A1.jpg
 └── _scripts/
     └── build_index.py     ← gộp toàn bộ frontmatter thành 1 bảng tra cứu (index.json/csv)
 ```
+
+**Phân biệt `lo-nung/` (cái lò) và `nung-lo/` (mẻ nung):** một cái lò (vd `LOK-01` — lò củi bầu 3 buồng) được dùng lại qua hàng trăm mẻ nung (`LO-014`, `LO-015`...). Tách riêng để khi bạn thử nghiệm trên lò gas, lò điện, lò kết hợp sau này, dữ liệu "đặc tính của từng lò" (luồng khí, vị trí nóng/lạnh...) không bị lặp lại hoặc trộn lẫn vào từng mẻ nung — và để so sánh được: "cùng công thức men M-01, trên lò củi vs lò gas cho kết quả khác nhau thế nào".
 
 ## Quy tắc bắt buộc (giữ nghiêm để không "vỡ" hệ thống sau nhiều năm)
 
