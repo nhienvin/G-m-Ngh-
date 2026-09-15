@@ -22,7 +22,7 @@ Tài liệu này là bản dữ liệu dạng bảng (Markdown), tương ứng v
 
 | Mã mẻ | Ngày thử | Dòng sản phẩm | Xương | Men | Cone/Nhiệt độ đỉnh (°C) | Tốc độ tăng nhiệt 0–200°C (°C/giờ) | Thời gian giữ nhiệt đỉnh (phút) | Tốc độ làm nguội qua 573°C (°C/giờ) | Bầu không khí lò | B1: Quan sát bề mặt/âm gõ | B2: W1 (g) | B2: W2 (g) | B2: % Hấp thụ nước | B2: Ngưỡng mục tiêu (%) | B2: Đạt ngưỡng xốp? | B3: Rạn men sau sốc nhiệt? | B4: Đổi màu giấm 24h? | B5: Cần gửi kiểm định? | Ghi chú |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| M001 | 2026-09-05 | Đồ dùng hàng ngày | X-04 | M-04 | 1150 | 80 | 30 | 80 | Khử nhẹ | Bề mặt còn sạn do còn để sạn, có lỗ kim khả năng do đất cũ vẫn còn lượng 409 cao, âm gõ đục của xương nhiều sạn | 150.0 | 151.8 | 1.20 | 3.0 | Đạt | Không | Không | Chưa đủ điều kiện gửi kiểm định | Cần giữ nhiệt đỉnh trên 30p đến 1h để men có độ mịn hơn cũng như xương thiêu kết tốt hơn. |
+| M001 | 2026-09-05 | Đồ dùng hàng ngày | X-04 | M-04 | 1150 | 80 | 30 | 80 | Khử nhẹ | Bề mặt còn sạn do còn để sạn, có lỗ kim khả năng do đất cũ vẫn còn lượng 409 cao, âm gõ đục của xương nhiều sạn | 519.2 | 151.8 | 1.20 | 3.0 | Đạt | Không | Không | Chưa đủ điều kiện gửi kiểm định | Cần giữ nhiệt đỉnh trên 30p đến 1h để men có độ mịn hơn cũng như xương thiêu kết tốt hơn. |
 | | | | | | | | | | | | | | | | | | | |
 
 ---
